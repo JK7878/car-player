@@ -1,22 +1,11 @@
 
-Multiplayer car racing game playable on both mobile and web. Created during Summer 2018 at the 2Axion Games' Cerritos office.
-
+Multiplayer car racing game playable on both mobile and web. 
 
 * Allow users to choose between two modes (futuristic and realistic)
 * Porgram realistic car physics for each of the two modes
 * Implement a particle system (for realistic mode)
 * Design and implement stage variables (i.e. ramps, boosters, items, etc.)
-* Design and deploy at least two maps for each mode
-* Implement multiplayer mode
-* Implement fuel and health systems
-* Design and deploy a pit stop object in each map
-* Design an implement a persistent and auto-updating in-game leaderboard per race
-* Create environmental variables (i.e. rocks, trees, houses)
-* Program collision detection with the various environmental objects and other players
-* Allow users to switch between a static and dynamic camera
-* Design and program at least 4 real racing car models with the in-house design team for each mode
-* Allow users access to sound / song selection systems
-* Implement an AI system that allows users to play with bots
+
 
 
 * Install Unity Hub and latest Unity patch (probably 2019.x)
